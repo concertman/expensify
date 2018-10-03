@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "Expensify",
+        "Unmount",
+        "datepicker",
+        "devtool",
+        "polyfill",
+        "raf"
+    ]
+}
