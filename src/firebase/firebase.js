@@ -13,10 +13,4 @@ firebase.initializeApp(config);
 
 const database = firebase.database();
 
-database.ref().set({
-  name: 'Jarod',
-  age: 40,
-});
-
-// database.ref().set('This is my data');
-database.ref('age').set(41);
+export { firebase, database as default };

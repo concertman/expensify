@@ -18,7 +18,8 @@ module.exports = {
         "babel/quotes": 0,
         "babel/semi": 1,
         "babel/no-unused-expressions": 1,
-        "babel/valid-typeof": 0
+        "babel/valid-typeof": 0,
+        "no-underscore-dangle": 0
     },
     "plugins": [
         "babel",
