@@ -19,7 +19,10 @@ module.exports = {
         "babel/semi": 1,
         "babel/no-unused-expressions": 1,
         "babel/valid-typeof": 0,
-        "no-underscore-dangle": 0
+        "no-underscore-dangle": 0,
+        "import/no-named-as-default": 0,
+        "import/no-named-as-default-member": 0,
+        "arrow-body-style": 0
     },
     "plugins": [
         "babel",
